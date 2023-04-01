@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import '../styles/App.css';
 
-const API_KEY = "your_api_key_here"; // Replace with your actual API key
+const API_KEY = "a81b188d8b3aa25e6499f11210c14962"; // Replace with your actual API key
 
 const App = () => {
 const [category, setCategory] = useState("general");
